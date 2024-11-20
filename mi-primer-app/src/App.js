@@ -6,6 +6,8 @@ import "./pages/Contact";
 import Contact from "./pages/Contact";
 import AboutMe from "./pages/AboutMe";
 import Profile from "./pages/Profile";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
