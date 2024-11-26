@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Welcome message="Hola Welcome props" name="Karla" />
+        <Welcome message="Hola Welcome props" name="Josué" />
         <Router>
           <div>
             <ul>
